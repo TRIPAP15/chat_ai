@@ -1,0 +1,557 @@
+{
+    "Content Taxonomy": {
+        "Audience": {
+            "definition": "The group of reading, viewing or listening public",
+            "synonyms": [],
+            "Administrator": {
+                "definition": "Person that direct the operation of healthcare organizations, shape the policy that runs the facility and improve the patients experience.",
+                "synonyms": [
+                    "Healthcare Administrator",
+                    "Administrator"
+                ]
+            },
+            "Association": {
+                "definition": "A group of people organized for a joint purpose",
+                "synonyms": [
+                    "Association"
+                ]
+            },
+            "Case Manager": {
+                "definition": "Accomplishes clients care by assessing treatment needs; developing, monitoring, and evaluating treatment plans and progress; facilitating interdisciplinary approaches; monitoring staff performance. Admits new clients by reviewing records and applications; conducting orientations.",
+                "synonyms": [
+                    "Case Manager",
+                    "Case manager"
+                ]
+            },
+            "Caregiver": {
+                "definition": "A person who regularly looks after a child or a sick, elderly, or disabled person.",
+                "synonyms": [
+                    "Caregiver"
+                ]
+            },
+            "Consumer": {
+                "definition": "Person who purchases goods and services for personal use",
+                "synonyms": [
+                    "Consumer"
+                ]
+            },
+            "Decision Maker": {
+                "definition": "Person or group of individuals who is responsible for making strategically important decisions based on a number of variables, including time constraints, resources available, the amount and type of information available and the number of stakeholders involved.",
+                "synonyms": [
+                    "Decision maker"
+                ]
+            },
+            "General Public": {
+                "definition": "Groups or individual people, who are not members of a particular organization or who do not have any special type of knowledge",
+                "synonyms": [
+                    "General population",
+                    "General public"
+                ]
+            },
+            "Government": {
+                "definition": "Group of people with the authority to govern a country, region or state.",
+                "synonyms": [
+                    "Government"
+                ]
+            },
+            "General Practitioner": {
+                "definition": "Physicians that offer general medical services to patients of all ages but do not typically specialize in a particular area",
+                "synonyms": [
+                    "General Practitioner",
+                    "General practitioner"
+                ]
+            },
+            "Healthcare / Regulatory Authorities": {
+                "definition": "Governmental Authority or quasi-Governmental Authority or any agency, intermediary, board, authority or entity having jurisdiction over the ownership, operation, use or occupancy of any Individual Property as a skilled nursing facility, long-term acute care facility or assisted living facility. ",
+                "synonyms": [
+                    "Healthcare authority",
+                    "Regulatory authority",
+                    "Regulierungsbeh\u00f6rde"
+                ]
+            },
+            "Investigator": {
+                "definition": "Investigator that initiated trial. (Roche).",
+                "synonyms": [
+                    "Investigator"
+                ]
+            },
+            "Instructor": {
+                "definition": "Postsecondary teachers who cover subjects related to medical care and healthcare with their students. They help prepare individuals who are studying to become medical professionals, such as nurses, surgical assistants or doctors.",
+                "synonyms": [
+                    "Instructor",
+                    "Medical instructor",
+                    "Instructor Medical"
+                ]
+            },
+            "Media / Press": {
+                "definition": "News media and agencies collectively",
+                "synonyms": []
+            },
+            "Nurse": {
+                "definition": "A nurse is a caregiver for patients and helps to manage physical needs, prevent illness, and treat health conditions. They are responsible for the holistic care of patients, which encompasses the psychosocial, developmental, cultural, and spiritual needs of the individual.",
+                "synonyms": [
+                    "Nurse"
+                ]
+            },
+            "Nurse Practitioner": {
+                "definition": "Registered nurses who have completed additional training, education and nursing experience. It enables them to diagnose and treat illnesses, prescribe medication and do other tasks similar to a doctor that a regular registered nurse cannot.",
+                "synonyms": [
+                    "Nurse Practitioner",
+                    "Nurse practitioner"
+                ]
+            },
+            "Organization": {
+                "definition": "an object aggregate of people, or groups of people that are formed together into a community or other social, commercial, or political structure, can follow organization rules, can bear roles, and are designated to act towards some purpose, such as to meet a need or pursue collective goals on a continuing basis",
+                "synonyms": [
+                    "Organization",
+                    "Organisation"
+                ]
+            },
+            "Patient": {
+                "definition": "Any recipient of health care services. The patient is most often ill or injured and in need of treatment by healthcare professionals. Patient information should include all the relevant Patient Details such as initials, date of birth, ethnic origin, etcetera. (Roche).",
+                "synonyms": [
+                    "Patients",
+                    "Patient"
+                ]
+            },
+            "Payer": {
+                "definition": "Person or organization that gives someone money that is due for work done, goods received, or a debt incurred.",
+                "synonyms": [
+                    "Payer"
+                ]
+            },
+            "Pharmacist": {
+                "definition": "Pharmacists prepare, dispense, and provide prescriptions for, over the counter medication. They offer clinical information on medicines, report suspected adverse reactions, and provide personalised support to patients. Pharmacists formulate and test medications in laboratories, and store, preserve, and distribute them. (ESCO).",
+                "synonyms": [
+                    "Pharmacist",
+                    "Pharmacists"
+                ]
+            },
+            "Prescriber": {
+                "definition": "Person licensed, registered, or otherwise permitted by their country in which he or she practices, to issue prescriptions for drugs for human use.",
+                "synonyms": [
+                    "Prescriber"
+                ]
+            },
+            "Specialist": {
+                "definition": "A health care specialist is a medical professional who works in the health care field in either a clinical or non-clinical setting.",
+                "synonyms": [
+                    "Health specialist",
+                    "Specialist Health",
+                    "Specialist"
+                ]
+            }
+        },
+        "Content Purpose": {
+            "definition": "The intended end, aim or goal the content was created for",
+            "synonyms": [],
+            "Disease Awareness": {
+                "definition": "Being aware of a disease and its symptoms means people are more likely to take preventative action, and go for screenings, tests and check-ups",
+                "synonyms": [
+                    "Disease awareness"
+                ]
+            },
+            "Clinical Trials": {
+                "definition": "A research study that prospectively assigns human participants or groups of humans to one or more health-related interventions to evaluate the effects on health outcomes (NCIt).",
+                "synonyms": [
+                    "Clinical Study",
+                    "Clinical Trial",
+                    "Development Therapeutic",
+                    "Development Pharmacology",
+                    "Clinical trials",
+                    "Clinical Studies",
+                    "Interventional human in vivo study",
+                    "Clinical trial",
+                    "Clinical Research"
+                ]
+            },
+            "Congress / Meeting /Event": {
+                "definition": "a formal meeting or series of meetings for discussion between delegates, especially those from a particular sphere of activity. Hospitality or social activity which is organised or funded by Roche.",
+                "synonyms": [
+                    "Congress",
+                    "Congress Meeting",
+                    "Roche social event",
+                    "Event"
+                ],
+                "Pre-Event": {
+                    "definition": "Time frame prior to the start of an event",
+                    "synonyms": [
+                        "Time point pre event",
+                        "Pre-event"
+                    ]
+                },
+                "Past-Event": {
+                    "definition": "Time frame after the end of an event",
+                    "synonyms": [
+                        "Time point post event",
+                        "Past-event"
+                    ]
+                }
+            },
+            "Market Access": {
+                "definition": "Getting the right treatment to the right patient at the right time, and possibly even at the right price.",
+                "synonyms": [
+                    "Market Access",
+                    "Market access"
+                ]
+            },
+            "Press": {
+                "definition": "Press collectively refer to all the newspapers, TV programs, radio shows, and other means of communication that make up the news media. The people who work for organizations that produce these communications are also referred to as the press (https://www.dictionary.com/browse/press).",
+                "synonyms": [
+                    "Press"
+                ]
+            },
+            "Product Information": {
+                "definition": "Documents providing officially approved information for healthcare professionals and patients on a medicine. The product information includes the summary of product characteristics, package leaflet and labelling. ",
+                "synonyms": [
+                    "Product information"
+                ]
+            },
+            "Training": {
+                "definition": "The term labels anything which is related to trainings i.e. from planning, conducting, content description etc.",
+                "synonyms": [
+                    "Training",
+                    "Training Session"
+                ]
+            }
+        },
+        "Content Complexity": {
+            "definition": "Cognitive demands inferred from the language of a content standard. It considers factors such as prior knowledge, processing of concepts and skills, sophistication, number of parts, and application of content structure required to meet an expectation or to attain an outcome.",
+            "synonyms": [],
+            "Introductory": {
+                "definition": "Content that doesn't require any previous knowledge to be consumed",
+                "synonyms": [
+                    "Introductory",
+                    "Introductory content"
+                ]
+            },
+            "Intermediate": {
+                "definition": "Content that requires the consumer to know the basis of the treated topic",
+                "synonyms": [
+                    "Intermediate",
+                    "Intermediate content"
+                ]
+            },
+            "Advanced": {
+                "definition": "Content that expects the comsumer to have full knowledge of the treated topic",
+                "synonyms": [
+                    "Advanced content",
+                    "Advanced"
+                ]
+            },
+            "Expert": {
+                "definition": "Specialized content that requires a high level of expertise from the consumer on the topic it covers. Usually referred to scientific abstracts or articles.",
+                "synonyms": [
+                    "Expert content",
+                    "Expert"
+                ]
+            }
+        },
+        "Non Clinical Topics": {
+            "definition": "Particular issue or idea that serves as the subject of a non clinical paragraph, essay, report, or speech",
+            "synonyms": [],
+            "Congress": {
+                "definition": "a formal meeting or series of meetings for discussion between delegates, especially those from a particular sphere of activity (adapted from Oxford Languages).",
+                "synonyms": [
+                    "Congress",
+                    "Congress Meeting"
+                ]
+            },
+            "Mental wellness": {
+                "definition": "Mental health includes our emotional, psychological, and social well-being. It affects how we think, feel, and act. It also helps determine how we handle stress, relate to others, and make choices. Mental health is important at every stage of life, from childhood and adolescence through adulthood.",
+                "synonyms": [
+                    "Mental wellness"
+                ]
+            },
+            "Lifestyle": {
+                "definition": "Topics related to health and fitness (Tobacco, nutrition, exercise, ...)",
+                "synonyms": [
+                    "Lifestyle"
+                ]
+            },
+            "E-Learning": {
+                "definition": "any kind of interactive or passive online seminar-like meeting",
+                "synonyms": [
+                    "Online-Seminar",
+                    "eLearning",
+                    "Webinar",
+                    "Web based training",
+                    "E-Learning"
+                ]
+            },
+            "Science": {
+                "definition": "Process of exploring new knowledge methodically through observation and experiments",
+                "synonyms": [
+                    "Science"
+                ]
+            },
+            "Technology": {
+                "definition": "The application of scientific knowledge to practical purposes in any field. It includes methods, techniques, and instrumentation (MeSH).",
+                "synonyms": [
+                    "Technology"
+                ]
+            },
+            "Legal": {
+                "definition": "Legal refers to adherence to laws, regulations, and ethical standards governing actions and practices within a specified domain. In healthcare and pharmaceutical contexts, legal considerations encompass compliance with statutes related to patient rights, medical practice, intellectual property, and product safety, ensuring ethical conduct and protection of stakeholders' interests.",
+                "synonyms": []
+            },
+            "Finance": {
+                "definition": "Topics related to finance",
+                "synonyms": [
+                    "Finance"
+                ]
+            },
+            "Healthcare Administration": {
+                "definition": "Healthcare management is the field relating to leadership, management, and administration of public health systems, health care systems, hospitals, and hospital networks in all the primary, secondary, and tertiary sectors. (Wikipedia)",
+                "synonyms": [
+                    "Hospital management",
+                    "Healthcare administration",
+                    "Healthcare Management",
+                    "Health administration"
+                ]
+            }
+        },
+        "Clinical Topic": {
+            "definition": "Particular issue or idea that serves as the subject of a clinical paragraph, essay, report, or speech",
+            "synonyms": [],
+            "Disease Stage": {
+                "definition": "An adjectival term that can specify or describe a disease stage.(NCIt)",
+                "synonyms": [
+                    "Disease stage",
+                    "Disease Stage Qualifier",
+                    "Stage of disease"
+                ]
+            },
+            "Personalised Healthcare": {
+                "definition": "Personalized healthcare, also known as precision medicine, involves tailoring medical treatment and interventions to individual characteristics such as genetics, lifestyle, and environment. This approach aims to optimize patient outcomes by customizing prevention, diagnosis, and treatment strategies based on unique factors specific to each person, ultimately enhancing efficacy and minimizing adverse effects.",
+                "synonyms": []
+            },
+            "Quality of Life": {
+                "definition": "The concept holds varying meanings for different people and may evolve over time. For some individuals it implies autonomy, empowerment, capability, and choice; for others, security, social integration, or freedom from stress or illness. (NCI).",
+                "synonyms": [
+                    "Ouality of Life (Quality of Life)",
+                    "Quality of life",
+                    "QoL",
+                    "Quality of Life"
+                ]
+            },
+            "Minimal Residual Disease": {
+                "definition": "Evidence for remaining tumor following primary treatment that is only apparent using highly sensitive techniques. (NCI)",
+                "synonyms": [
+                    "Minimal Residual Disease",
+                    "MRD",
+                    "MRD (Minimal Residual Disease)",
+                    "Minimal residual disease"
+                ]
+            },
+            "Tolerability": {
+                "definition": "Evaluation of degree to which overt adverse effects can be tolerated by the subject. (adapted from NCI)",
+                "synonyms": [
+                    "Tolerability Endpoint",
+                    "Tolerability"
+                ]
+            },
+            "Overall Survival": {
+                "definition": "A measurement of the survival rate for a group of individuals suffering from a disease. (EFO)",
+                "synonyms": [
+                    "OS",
+                    "Overall Survival",
+                    "OS (Overall Survival)",
+                    "Overall survival"
+                ]
+            },
+            "Mechanism of Action": {
+                "definition": "Mechanism of action (MOA) refers to the specific biochemical interaction through which a drug substance produces its pharmacological effect. A mechanism of action usually includes mention of the specific molecular targets to which the drug binds, such as an enzyme or receptor (https://en.wikipedia.org/wiki/Mechanism_of_action).",
+                "synonyms": [
+                    "Mechanism of action"
+                ]
+            },
+            "Prevention": {
+                "definition": "Prevention involves measures taken to mitigate or eliminate the occurrence of disease, injury, or adverse health conditions. These efforts encompass various strategies, such as promoting healthy behaviors, implementing safety protocols, and addressing risk factors to enhance overall well-being.",
+                "synonyms": []
+            },
+            "Pharmacovigilance": {
+                "definition": "The detection, assesment, understanding and prevention of adverse effects of medicines. (EDAM)",
+                "synonyms": [
+                    "Pharmacovigilance"
+                ]
+            },
+            "Treatment Plan": {
+                "definition": "A detailed plan with information about a patient\u2019s disease, the goal of treatment, the treatment options for the disease and possible side effects, and the expected length of treatment. A treatment plan may also include information about how much the treatment is likely to cost and about regular follow-up care after treatment ends (https://www.cancer.gov/publications/dictionaries/cancer-terms/def/treatment-plan).",
+                "synonyms": [
+                    "Treatment plan"
+                ]
+            },
+            "Route of Administration": {
+                "definition": "Part of the body through which or into which an agent is administered to an organism (adapted from NCIt).",
+                "synonyms": [
+                    "Route of administration"
+                ]
+            },
+            "Patient Support Programme": {
+                "definition": "Initiatives led by pharmaceutical companies to improve access, usage, and adherence to prescription drugs",
+                "synonyms": [],
+                "Support": {
+                    "definition": "Patient solutions, services or assistance programs that are beyond-the-pill services, packaged alongside the clinical profile of a drug, medical device or treatment given to a patient",
+                    "synonyms": [
+                        "Patient support program\t"
+                    ]
+                },
+                "Patient advocacy groups": {
+                    "definition": "Helps patients communicate with their healthcare providers so they get the information they need to make decisions about their health care.",
+                    "synonyms": [
+                        "Patient advocacy group"
+                    ]
+                },
+                "Patient Access": {
+                    "definition": "Programs that provide access to an Investigational Medicinal Product for patients with a serious and/or life threatening disease for which no appropriate alternate treatments are available and who are not able to participate in a clinical trial. Patient Access Programs include the study purpose EAP, PTA, CU, PAA and other local country definitions that fit in those 4 categories, such as individual-patient IND, treatment IND, compassionate use, emergency use, named patient use, special access and individual patient use.",
+                    "synonyms": [
+                        "PAP (Patient access program)",
+                        "Patient Access",
+                        "Patient access program"
+                    ]
+                }
+            },
+            "Diagnosis": {
+                "definition": "The investigation, analysis and recognition of the presence and nature of disease, condition, or injury from expressed signs and symptoms; also, the scientific determination of any kind; the concise results of such an investigation (NCIt)",
+                "synonyms": [
+                    "Diagnosis",
+                    "Diagnosis, unspecified",
+                    "Diagnosis, general",
+                    "DIAGNOSIS"
+                ],
+                "Symptoms": {
+                    "definition": "Signs and symptoms are the observed or detectable signs, and experienced symptoms of an illness, injury, or condition. General signs and symptoms are the opposite of cardinal, specific, or pathognomonic signs and symptoms. General signs and symptoms - although non-specific - , may in combinations be suggestive of certain diagnoses, helping to narrow down what may be wrong. [adapted from Wiki]",
+                    "synonyms": [
+                        "Unspecific symptoms",
+                        "Symptoms",
+                        "General symptom"
+                    ]
+                }
+            },
+            "Treatment": {
+                "definition": "Action that does or aims to prevent, cure, ameliorate, or slow progression of a pathological condition(s) (adapted from https://www.merriam-webster.com/dictionary/treatment).",
+                "synonyms": [
+                    "Treatment",
+                    "Therapeutic treatment"
+                ],
+                "chemotherapy": {
+                    "definition": "Chemotherapy is a medical treatment that uses drugs to kill cancer cells or to stop them from growing. It's commonly used in cancer treatment to shrink tumors, prevent cancer from spreading, or to relieve symptoms caused by cancer.",
+                    "synonyms": [
+                        "Chemotherapy"
+                    ]
+                },
+                "immunotherapy": {
+                    "definition": "Therapy designed to induce changes in a patient's immune status in order to treat disease. (NCIt).",
+                    "synonyms": [
+                        "Immunotherapy (procedure)",
+                        "Immunologically Directed Therapy",
+                        "Immunotherapies",
+                        "IMMUNOTHERAPY",
+                        "Immunotherapy",
+                        "Immunological therapy"
+                    ]
+                },
+                "radiotherapy": {
+                    "definition": "Treatment of a disease by means of exposure of the target or the whole body to radiation. Radiation therapy is often used as part of curative therapy and occasionally as a component of palliative treatment for cancer. Other uses include total body irradiation prior to transplantation. [created by term_inspector_bot 20191204 via ncit]",
+                    "synonyms": [
+                        "Radiotherapy",
+                        "Radiation Therapy",
+                        "Radiation therapy",
+                        "Radiation"
+                    ]
+                },
+                "Tumor agnostic therapy": {
+                    "definition": "A therapy taking only biomarkers into consideration but not the tissue or cancer type. (RTS)",
+                    "synonyms": [
+                        "Pan Tumour",
+                        "Pan tumour therapy",
+                        "Pan-tumour",
+                        "Pan tumor therapy",
+                        "Tumor agnostic therapy"
+                    ]
+                },
+                "Efficacy": {
+                    "definition": "The measure of the ability of an intervention to produce the desired beneficial clinical effect in average conditions of application, usually determined in non-randomized outcome studies. Treatment effectiveness could be affected by lack of efficacy and/or patient compliance. The probability of benefit to individuals in a defined population from a medical technology applied for a given medical problem under ideal conditions of use. Efficacy is a measure of effect of therapy among appropriate patients in whom treatment is tolerated and effectively administered, under the condition of sufficient patients' compliance, usually determined in randomized trials (NCIt)",
+                    "synonyms": [
+                        "Treatment efficacy",
+                        "Efficacy"
+                    ]
+                },
+                "Safety": {
+                    "definition": "Pharmacovigilance (PV or PhV), also known as drug safety, is the pharmacological science relating to the collection, detection, assessment, monitoring, and prevention of adverse effects with pharmaceutical products.(NCIt)",
+                    "synonyms": [
+                        "Treatment safety",
+                        "Safety"
+                    ]
+                },
+                "targeted therapy": {
+                    "definition": "A type of cancer treatment that uses testing and medication to more precisely identify and treat cancer. [created by term_inspector_bot 20201126 via ncit]",
+                    "synonyms": [
+                        "\u9776\u5411\u6cbb\u7597",
+                        "Targeted therapy",
+                        "Targeted Therapy"
+                    ]
+                },
+                "Surgery": {
+                    "definition": "A diagnostic or treatment procedure performed by manual and/or instrumental means, often involving an incision and the removal or replacement of a diseased organ or tissue; of or relating to or involving or used in surgery or requiring or amenable to treatment by surgery. [created by term_inspector_bot 20191204 via ncit]",
+                    "synonyms": [
+                        "Procedure",
+                        "Surgical Procedure",
+                        "Surgery",
+                        "Surgical procedure"
+                    ]
+                },
+                "Epidemiology": {
+                    "definition": "The study of the causes, incidence and distribution of disease in the population and its application for prevention or control. (NCIt)",
+                    "synonyms": [
+                        "Epidemiology"
+                    ]
+                }
+            },
+            "Dosage": {
+                "definition": "The size or frequency of a dose of a medicine or drug",
+                "synonyms": [
+                    "Dosage"
+                ],
+                "Dose Description": {
+                    "definition": "Dose description involves providing concise details regarding the quantity, timing, and administration of a substance or treatment regimen. It encompasses clear instructions on how much of a medication or therapy should be taken, when it should be administered, and any specific guidelines for its usage, facilitating safe and effective delivery of care.",
+                    "synonyms": []
+                },
+                "Dose Form": {
+                    "definition": "Dosage Form (DF) is defined as the physical form of a dose of a chemical compound used as a drug or medication intended for administration or consumption. Common dosage forms include pill, tablet, or capsule, drink or syrup, aerosol or inhaler, liquid injection, pure powder or solid crystal (e.g., via oral ingestion or freebase smoking), and natural or herbal form such as plant or food of sorts, among many others. The route of administration (ROA) for drug delivery is dependent on the dosage form of the substance.",
+                    "synonyms": [
+                        "Dosage form"
+                    ]
+                },
+                "Dose per Administration": {
+                    "definition": "Dose per administration refers to the specific amount of a medication or treatment given during a single instance of administration. It indicates the quantity of the substance prescribed or recommended to be administered at one time, ensuring precise dosing and adherence to treatment protocols.",
+                    "synonyms": []
+                },
+                "Dose Unit": {
+                    "definition": "Standard measure of the amount of a toxic or pharmaceutical substance administered to a recipient subject (adopted from http://purl.obolibrary.org/obo/UO_0000307).",
+                    "synonyms": [
+                        "Dose Unit",
+                        "Dose unit"
+                    ]
+                }
+            },
+            "Treatment Place": {
+                "definition": "Particular space or location where a treatment can take place",
+                "synonyms": [],
+                "Hospital": {
+                    "definition": "Health care institution providing patient treatment with specialized health science and auxiliary healthcare staff and medical equipment.",
+                    "synonyms": [
+                        "Hospital"
+                    ]
+                },
+                "At Home": {
+                    "definition": "Place where a person lives",
+                    "synonyms": [
+                        "Home"
+                    ]
+                }
+            }
+        }
+    }
+}
